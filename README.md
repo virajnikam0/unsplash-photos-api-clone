@@ -3,7 +3,7 @@ Visit - https://unsplash-clone-123.vercel.app/
 
 # Unsplash Clone
 
-A modern Unsplash-inspired web application that allows users to search and explore high-quality images using the Unsplash API.
+Unsplash web application that allows users to search and explore high-quality images using the Unsplash API.
 
 ## Features
 
